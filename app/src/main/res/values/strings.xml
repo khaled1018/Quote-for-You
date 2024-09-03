@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Wisdom Words</string>
+    <string name="quote_text">The best time to make friends is before you need them</string>
+    <string name="author_text">Ethel Barrymore</string>
+    <string name="previous_quote">Previous Quote</string>
+    <string name="next_quote">New Quote</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fabImageDesc">Share the quote</string>
+    <string name="favButtonDesc">Button for adding quote to favourites</string>
+    <string name="removeQuoteButtonDesc">remove the quote</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="history">History</string>
+</resources>
